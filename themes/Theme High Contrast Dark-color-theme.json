@@ -124,7 +124,8 @@
                 "string.quoted.double.html",
                 "string.quoted.double.css",
                 "string.quoted.double.json",
-                "markup.inline.raw.string.markdown"
+                "markup.inline.raw.string.markdown",
+                "string.quoted.binary.single.python"
 
             ],
             "settings": {
