@@ -1,0 +1,36 @@
+{
+  "name": "Theme-High-Contrast-Dark",
+  "displayName": "Theme High Contrast Dark",
+  "description": "Tema Dark de Alto Contraste para Realçar a Sintaxe das Seguintes Linguagens: Python, Julia, Lua, R, Javascript, HTML, CSS, JSON, Markdown.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "JDSE",
+  "icon": "icon.png",
+  "repository":{
+  "type": "git",
+  "url": "https://github.com/J-D-S-E/Theme-High-Contrast-Dark"
+  },
+  "keywords":   [
+    "Theme",
+    "Dark",
+    "Theme Dark",
+    "Tema Escuro",
+    "Tema Preto",
+    "Black Theme",
+	"Tema"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theme High Contrast Dark",
+        "uiTheme": "hc-black",
+        "path": "./themes/Theme High Contrast Dark-color-theme.json"
+      }
+    ]
+  }
+}
