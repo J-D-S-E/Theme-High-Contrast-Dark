@@ -20,7 +20,7 @@
                 "string.quoted.docstring.multi.python"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -52,7 +52,7 @@
                 "meta.function-call"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -62,7 +62,7 @@
                 "support.function.magic.python"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -73,7 +73,7 @@
 
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -83,7 +83,7 @@
 
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -125,7 +125,7 @@
                 "string.quoted.double.css",
                 "string.quoted.double.json",
                 "markup.inline.raw.string.markdown",
-                "string.quoted.binary.single.python"
+				"string.quoted.binary.single.python"
 
             ],
             "settings": {
@@ -140,7 +140,7 @@
                 "constant.numeric.float.python"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -159,7 +159,7 @@
                 "punctuation.definition.list.end.python"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -177,7 +177,7 @@
                 "constant.language.python",
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -186,7 +186,7 @@
                 "constant.language.boolean",
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -204,7 +204,7 @@
                 "support.function.julia"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -213,7 +213,7 @@
                 "constant.numeric.julia"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -222,7 +222,7 @@
                 "constant.language.julia"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -231,7 +231,7 @@
                 "support.function.r"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -240,7 +240,7 @@
                 "constant.numeric.float.decimal.r"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -249,7 +249,7 @@
                 "constant.language.r"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -258,7 +258,7 @@
                 "support.function.lua"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -267,7 +267,7 @@
                 "support.function.library.lua"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -276,7 +276,7 @@
                 "support.function.any-method.lua"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -285,7 +285,7 @@
                 "constant.numeric.float.lua"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -294,7 +294,7 @@
                 "constant.language.lua"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -303,7 +303,7 @@
                 "storage.type.r"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#4DFF70"
             }
         },
         {
@@ -330,7 +330,7 @@
                 "constant.numeric.css"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -429,7 +429,7 @@
                 "constant.numeric.json"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -438,7 +438,7 @@
                 "constant.language.json"
             ],
             "settings": {
-                "foreground": "#BD93F9"
+                "foreground": "#C9A3FF"
             }
         },
         {
@@ -447,7 +447,7 @@
                 "entity.name.section.markdown"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
@@ -456,7 +456,7 @@
                 "punctuation.definition.heading.markdown"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#9EB3FF"
             }
         },
         {
