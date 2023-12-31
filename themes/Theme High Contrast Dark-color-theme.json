@@ -52,7 +52,8 @@
                 "meta.function-call"
             ],
             "settings": {
-                "foreground": "#67E480"
+                "foreground": "#67E480",
+        
             }
         },
         {
@@ -678,6 +679,15 @@
             "settings": {
                 "foreground": "#FF0000"
             }
-        },        
+        },
+        {
+            "name": "Storage Type Format Python",
+            "scope": [
+                "storage.type.format.python"
+            ],
+            "settings": {
+                "foreground": "#569CD6"
+            }
+        },
     ]
 }
