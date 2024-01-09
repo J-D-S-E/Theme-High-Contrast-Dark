@@ -10,7 +10,9 @@
         "editor.lineHighlightBackground": "#36454F",
         "editor.selectionBackground": "#3344FF",
         "editor.selectionForeground": "#F8F8F2",
-        "editorLineNumber.activeForeground": "#3344FF"
+        "editorLineNumber.activeForeground": "#3344FF",
+		"terminal.ansiCyan": "#FFFFFF",
+        "contrastActiveBorder": "#FFFFFF"
 	},
 	"tokenColors": [
         {
