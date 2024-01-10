@@ -58,6 +58,16 @@
         
             }
         },
+		{
+            "name": "Meta Indexed Name Python",
+            "scope": [
+                "meta.indexed-name.python"
+            ],
+            "settings": {
+                "foreground": "#67E480",
+        
+            }
+        },
         {
             "name": "Entity Name Function",
             "scope": [
