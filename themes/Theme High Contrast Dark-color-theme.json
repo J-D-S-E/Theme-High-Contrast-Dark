@@ -1432,6 +1432,16 @@
             "settings": {
                 "foreground": "#FF0000"
             }
-        },    
+        },
+		{
+            "name": "Constant Character Format Placeholder Other Python",
+            "scope": [
+                "constant.character.format.placeholder.other.python"
+
+            ],
+            "settings": {
+                "foreground": "#569CD6"
+            }
+        },
     ]
 }

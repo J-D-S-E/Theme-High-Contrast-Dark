@@ -1,36 +1,48 @@
 {
-  "name": "Theme-High-Contrast-Dark",
-  "displayName": "Theme High Contrast Dark",
-  "description": "Tema Dark de Alto Contraste para Realçar a Sintaxe das Seguintes Linguagens: Python, Julia, Lua, R, Javascript, HTML, CSS, JSON, Markdown, XML, PHP, CoffeeScript, YAML.",
-  "version": "0.1.0",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "publisher": "JDSE",
-  "icon": "icon.png",
-  "repository":{
-  "type": "git",
-  "url": "https://github.com/J-D-S-E/Theme-High-Contrast-Dark"
-  },
-  "keywords":   [
-    "Theme",
-    "Dark",
-    "Theme Dark",
-    "Tema Escuro",
-    "Tema Preto",
-    "Black Theme",
-	"Tema"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Theme High Contrast Dark",
-        "uiTheme": "hc-black",
-        "path": "./themes/Theme High Contrast Dark-color-theme.json"
-      }
-    ]
-  }
+	"name": "Theme-High-Contrast-Dark",
+	"displayName": "Theme High Contrast Dark",
+	"description": "Tema Dark de Alto Contraste para Realçar a Sintaxe das Seguintes Linguagens: Python, Julia, Lua, R, Javascript, HTML, CSS, JSON, Markdown, XML, PHP, CoffeeScript, YAML.",
+	"version": "0.2.0",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"publisher": "JDSE",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/J-D-S-E/Theme-High-Contrast-Dark"
+	},
+	"keywords": [
+		"Theme",
+		"Dark",
+		"Theme Dark",
+		"Tema Escuro",
+		"Tema Preto",
+		"Black Theme",
+		"Tema"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Theme High Contrast Dark",
+				"uiTheme": "hc-black",
+				"path": "./themes/Theme High Contrast Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "bf9f3d04-4d96-4f26-8c78-d0b8a40694d4",
+		"publisherId": "3fbb662c-a176-4d04-8f35-68bdc70f6d83",
+		"publisherDisplayName": "JDSE",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1705613693180,
+		"pinned": false,
+		"preRelease": false
+	}
 }
