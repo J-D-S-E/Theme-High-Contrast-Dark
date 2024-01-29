@@ -1443,5 +1443,265 @@
                 "foreground": "#569CD6"
             }
         },
+        {
+            "name": "Entity Other Inherited Class Python",
+            "scope": [
+                "entity.other.inherited-class.python"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Type Python",
+            "scope": [
+                "support.type.python"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Constant Other Caps Python",
+            "scope": [
+                "constant.other.caps.python"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Type Julia",
+            "scope": [
+                "support.type.julia"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Entity Name Class Lua",
+            "scope": [
+                "entity.name.class.lua"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Variable Language Self Lua",
+            "scope": [
+                "variable.language.self.lua"
+
+            ],
+            "settings": {
+                "foreground": "#6272A4"
+            }
+        },
+        {
+            "name": "Meta Function Parameters R",
+            "scope": [
+                "meta.function.parameters.r"
+
+            ],
+            "settings": {
+                "foreground": "#6272A4"
+            }
+        },
+        {
+            "name": "Storage Type Interface PHP",
+            "scope": [
+                "storage.type.interface.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Storage Modifier Extends PHP",
+            "scope": [
+                "storage.modifier.extends.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Storage Modifier Implements PHP",
+            "scope": [
+                "storage.modifier.implements.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Entity Name Type Interface PHP",
+            "scope": [
+                "entity.name.type.interface.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Entity Other Inherited Class PHP",
+            "scope": [
+                "entity.other.inherited-class.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Storage Type PHP",
+            "scope": [
+                "storage.type.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Support Function Magic PHP",
+            "scope": [
+                "support.function.magic.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Keyword Other Namespace PHP",
+            "scope": [
+                "keyword.other.namespace.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Storage Type Trait PHP",
+            "scope": [
+                "storage.type.trait.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Keyword Other Use PHP",
+            "scope": [
+                "keyword.other.use.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Entity Name Type Trait PHP",
+            "scope": [
+                "entity.name.type.trait.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Keyword Other Clone PHP",
+            "scope": [
+                "keyword.other.clone.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Keyword Operator Type PHP",
+            "scope": [
+                "keyword.operator.type.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Storage Modifier Abstract PHP",
+            "scope": [
+                "storage.modifier.abstract.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Storage Modifier Final PHP",
+            "scope": [
+                "storage.modifier.final.php"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Entity Name Type Namespace PHP",
+            "scope": [
+                "entity.name.type.namespace.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Other Namespace PHP",
+            "scope": [
+                "support.other.namespace.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Class Builtin PHP",
+            "scope": [
+                "support.class.builtin.php"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Variable Language This Coffee",
+            "scope": [
+                "variable.language.this.coffee"
+
+            ],
+            "settings": {
+                "foreground": "#6272A4"
+            }
+        },
     ]
 }
