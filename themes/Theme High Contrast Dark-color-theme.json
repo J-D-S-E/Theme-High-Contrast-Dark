@@ -1704,5 +1704,15 @@
                 "foreground": "#6272A4"
             }
         },
+        {
+            "name": "Keyword Operator Expression Typeof js",
+            "scope": [
+                "keyword.operator.expression.typeof.js"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
     ]
 }
