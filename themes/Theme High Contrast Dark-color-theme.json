@@ -1,5 +1,6 @@
 {
 	"name": "JDSE",
+	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#000000",
 		"editor.foreground": "#ffffff",
