@@ -1714,5 +1714,35 @@
                 "foreground": "#FF0000"
             }
         },
+        {
+            "name": "Variable",
+            "scope": [
+                "variable"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Punctuation Separator Period Python",
+            "scope": [
+                "punctuation.separator.period.python"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Punctuation Definition Decorator Python",
+            "scope": [
+                "punctuation.definition.decorator.python"
+
+            ],
+            "settings": {
+                "foreground": "#569CD6"
+            }
+        },
     ]
 }
