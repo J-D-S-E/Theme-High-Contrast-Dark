@@ -1715,16 +1715,6 @@
             }
         },
         {
-            "name": "Variable",
-            "scope": [
-                "variable"
-
-            ],
-            "settings": {
-                "foreground": "#FFFFFF"
-            }
-        },
-        {
             "name": "Punctuation Separator Period Python",
             "scope": [
                 "punctuation.separator.period.python"
@@ -1742,6 +1732,36 @@
             ],
             "settings": {
                 "foreground": "#569CD6"
+            }
+        },
+        {
+            "name": "Entity Name Function Decorator Python",
+            "scope": [
+                "entity.name.function.decorator.python"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Variable Other Object js",
+            "scope": [
+                "variable.other.object.js"
+
+            ],
+            "settings": {
+                "foreground": "#1836df"
+            }
+        },
+        {
+            "name": "Entity Name Type Object Coffee",
+            "scope": [
+                "entity.name.type.object.coffee"
+
+            ],
+            "settings": {
+                "foreground": "#1836df"
             }
         },
     ]
