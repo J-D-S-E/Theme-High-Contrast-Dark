@@ -3,7 +3,8 @@
 	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#ffffff",
+		"focusBorder": "#FFFFFF",
+		"editor.foreground": "#FFFFFF",
         "editor.wordHighlightBackground": "#3344FF",
         "editor.wordHighlightBorder": "#3344FF",
         "editor.wordHighlightStrongBackground": "#3344FF",
