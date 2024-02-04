@@ -1,6 +1,9 @@
 {
 	"name": "JDSE",
 	"semanticHighlighting": true,
+    "semanticTokenColors": {
+        "operator.overridden": "#D4D4D4"
+    },
 	"colors": {
 		"editor.background": "#000000",
 		"focusBorder": "#FFFFFF",
