@@ -2,7 +2,9 @@
 	"name": "JDSE",
 	"semanticHighlighting": true,
     "semanticTokenColors": {
-        "operator.overridden": "#D4D4D4"
+        "operator.overridden": "#D4D4D4",
+        "variable.decorator": "#FFFFFF"
+
     },
 	"colors": {
 		"editor.background": "#000000",
@@ -1745,7 +1747,7 @@
 
             ],
             "settings": {
-                "foreground": "#FFFFFF"
+                "foreground": "#67E480"
             }
         },
         {
