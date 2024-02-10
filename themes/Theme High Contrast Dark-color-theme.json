@@ -3,8 +3,7 @@
 	"semanticHighlighting": true,
     "semanticTokenColors": {
         "operator.overridden": "#D4D4D4",
-        "variable.decorator": "#FFFFFF",
-		"class": "#98AFFF"
+        "variable.decorator": "#FFFFFF"
 
     },
 	"colors": {
@@ -30,7 +29,7 @@
                 "string.quoted.docstring.multi.python"
             ],
             "settings": {
-                "foreground": "#FFB6C1"
+                "foreground": "#98AFFF"
             }
         },
         {
@@ -85,7 +84,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -95,7 +94,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -105,7 +104,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -998,7 +997,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -1088,7 +1087,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -1458,7 +1457,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -1498,7 +1497,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -1568,7 +1567,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
@@ -1698,7 +1697,7 @@
 
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#67E480"
             }
         },
         {
