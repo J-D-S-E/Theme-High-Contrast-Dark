@@ -29,3 +29,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release v0.12.0
 - Initial release v0.13.0
 - Initial release v0.14.0
+- Initial release v0.15.0
+ 
