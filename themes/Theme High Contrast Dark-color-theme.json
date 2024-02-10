@@ -3,7 +3,8 @@
 	"semanticHighlighting": true,
     "semanticTokenColors": {
         "operator.overridden": "#D4D4D4",
-        "variable.decorator": "#FFFFFF"
+        "variable.decorator": "#FFFFFF",
+		"class": "#98AFFF"
 
     },
 	"colors": {
@@ -29,7 +30,7 @@
                 "string.quoted.docstring.multi.python"
             ],
             "settings": {
-                "foreground": "#98AFFF"
+                "foreground": "#FF99CC"
             }
         },
         {
