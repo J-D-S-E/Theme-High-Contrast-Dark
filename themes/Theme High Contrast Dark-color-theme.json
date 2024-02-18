@@ -3,7 +3,8 @@
 	"semanticHighlighting": true,
     "semanticTokenColors": {
         "operator.overridden": "#D4D4D4",
-        "variable.decorator": "#FFFFFF"
+        "variable.decorator": "#FFFFFF",
+		"keyword.overridden": "#FF0000"
 
     },
 	"colors": {
