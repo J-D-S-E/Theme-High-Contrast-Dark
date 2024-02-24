@@ -1771,5 +1771,195 @@
                 "foreground": "#1836df"
             }
         },
+        {
+            "name": "Keyword Other Special Method Ruby",
+            "scope": [
+                "keyword.other.special-method.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Support Function Kernel Ruby",
+            "scope": [
+                "support.function.kernel.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "String Quoted Double Interpolated Ruby",
+            "scope": [
+                "string.quoted.double.interpolated.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "name": "String Quoted Single Ruby",
+            "scope": [
+                "string.quoted.single.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "name": "Variable Other Readwrite Instance Ruby",
+            "scope": [
+                "variable.other.readwrite.instance.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Support Class Ruby",
+            "scope": [
+                "support.class.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Constant Numeric Ruby",
+            "scope": [
+                "constant.numeric.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#BD93F9"
+            }
+        },
+        {
+            "name": "meta.embedded.line.ruby",
+            "scope": [
+                "meta.embedded.line.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Punctuation Section Embedded Begin Ruby",
+            "scope": [
+                "punctuation.section.embedded.begin.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "name": "Punctuation Section Embedded end Ruby",
+            "scope": [
+                "punctuation.section.embedded.end.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "name": "string.unquoted.heredoc.ruby",
+            "scope": [
+                "string.unquoted.heredoc.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "name": "Constant Character Escape Ruby",
+            "scope": [
+                "constant.character.escape.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#569CD6"
+            }
+        },
+        {
+            "name": "Constant Language Nil Ruby",
+            "scope": [
+                "constant.language.nil.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#98AFFF"
+            }
+        },
+        {
+            "name": "Constant Language Symbol Ruby",
+            "scope": [
+                "constant.language.symbol.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Meta Function Call Ruby",
+            "scope": [
+                "meta.function-call.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Punctuation Separator Inheritance Ruby",
+            "scope": [
+                "punctuation.separator.inheritance.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "String Interpolated Ruby",
+            "scope": [
+                "string.interpolated.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFF00"
+            }
+        },
+        {
+            "name": "Entity Name Type Module Ruby",
+            "scope": [
+                "entity.name.type.module.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Variable Other Readwrite Global Ruby",
+            "scope": [
+                "variable.other.readwrite.global.ruby"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
     ]
 }
