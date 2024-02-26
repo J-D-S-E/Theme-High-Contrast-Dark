@@ -1961,5 +1961,75 @@
                 "foreground": "#FFFFFF"
             }
         },
+        {
+            "name": "Variable Argument CSS",
+            "scope": [
+                "variable.argument.css"
+
+            ],
+            "settings": {
+                "foreground": "#FFFFFF"
+            }
+        },
+        {
+            "name": "Support Function Misc CSS",
+            "scope": [
+                "support.function.misc.css"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Function Transform CSS",
+            "scope": [
+                "support.function.transform.css"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Function URL CSS",
+            "scope": [
+                "support.function.url.css"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Function Gradient CSS",
+            "scope": [
+                "support.function.gradient.css"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Function Calc CSS",
+            "scope": [
+                "support.function.calc.css"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
+        {
+            "name": "Support Function Timing Function CSS",
+            "scope": [
+                "support.function.timing-function.css"
+
+            ],
+            "settings": {
+                "foreground": "#67E480"
+            }
+        },
     ]
 }
