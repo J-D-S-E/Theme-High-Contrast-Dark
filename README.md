@@ -2,7 +2,7 @@
 
 # Theme High Contrast Dark
 
-<img src="https://urlday.cc/kokvb" height="190px" width="190px" style="border-radius:50%;">
+<img src="https://raw.githubusercontent.com/J-D-S-E/Theme-High-Contrast-Dark/main/icon.png" height="190px" width="190px" style="border-radius:50%;">
 
 <br>
 <br>
