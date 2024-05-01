@@ -2,7 +2,7 @@
 	"name": "Theme-High-Contrast-Dark",
 	"displayName": "Theme High Contrast Dark",
 	"description": "Theme High Contrast Dark to Enhance the Syntax of the Following Languages: Python, Julia, Ruby, Lua, CoffeeScript, R, Javascript, PHP, HTML, CSS, JSON, Markdown, XML, YAML.",
-	"version": "0.21.0",
+	"version": "0.22.0",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
