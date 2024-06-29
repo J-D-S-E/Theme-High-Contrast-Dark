@@ -51,7 +51,8 @@
                 "keyword.operator.expression.in.js",
                 "keyword.other.julia",
                 "keyword.local.lua",
-                "entity.name.tag.html"
+                "entity.name.tag.html",
+                "keyword.operator.expression.of.js"
             ],
             "settings": {
                 "foreground": "#FF0000"
@@ -230,6 +231,15 @@
             "name": "Constant Language Boolean js",
             "scope": [
                 "constant.language.boolean",
+            ],
+            "settings": {
+                "foreground": "#98AFFF"
+            }
+        },
+        {
+            "name": "Constant Language Null js",
+            "scope": [
+                "constant.language.null.js",
             ],
             "settings": {
                 "foreground": "#98AFFF"
