@@ -11,7 +11,7 @@
 Theme High Contrast Dark to Enhance the Syntax of the Following Languages: Python, Julia, Ruby, Lua, CoffeeScript, R, Javascript, PHP, HTML, CSS, JSON, Markdown, XML, YAML.
 
 
-![Theme High Contrast Dark](https://raw.githubusercontent.com/J-D-S-E/Theme-High-Contrast-Dark/main/Theme-High-Contrast-Dark.png)
+![Theme High Contrast Dark](https://bit.ly/3yIYoFp)
 
 
 <br>
