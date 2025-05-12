@@ -13,15 +13,4 @@ Theme High Contrast Dark to Enhance the Syntax of the Following Languages: Pytho
 
 ![Theme High Contrast Dark](https://bit.ly/3yIYoFp)
 
-
-<br>
-<br>
-
-## If you like the Theme High Contrast Dark make a contribution
-
-<a href="https://www.buymeacoffee.com/JDSE" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 </div>
-
-<br>
-
